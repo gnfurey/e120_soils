@@ -1,0 +1,155 @@
+"Plot","NumSp","Species","Grass","C3","C4","Forb","Legume","Fgset","Fgset2","FgNum_C3C4","FgNum_noC3","Achmi","AmoPet","Andge","Asctu","Koecr","Lesca","Liaas","Luppe","MonSol","Panvi","Petpu","Poapr","Schsc","Sornu","SR.of.C3.Grass.Species.Planted","SR.of.C4.Species.Planted","SR.of.forbs.planted","SR.of.Legumes.Planted","SR.of.Grass.Species.Planted"
+2,1,"Lesca",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,4,"Asctu Liaas Monfi Panvi Solri",1,0,1,1,0,"4F","GF",2,2,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,3,0,1
+5,1,"Andge",1,0,1,0,0,"4","G",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+6,2,"Panvi Schsc",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,2
+9,16,"Achmi Agrsm Amoca Andge Asctu Elyca Lesca Liaas Luppe Monfi Panvi Petpu Poapr Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,4,5
+11,1,"Achmi",0,0,0,1,0,"F","F",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,8,"Achmi Koecr Luppe Monfi Petca Petvi Poapr Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,0,1,0,0,1,1,0,0,1,1,1,2,2,2,2,4
+14,2,"Asctu Liaas",0,0,0,1,0,"F","F",1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0
+15,8,"Agrsm Elyca Monfi Petca Petpu Petvi Poapr Queel Quema Solri",1,1,0,1,1,"3FL","GFL",3,3,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,2,1
+16,1,"Asctu",0,0,0,1,0,"F","F",1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,1,"Amoca",0,0,0,0,1,"L","L",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+22,8,"Agrsm Asctu Elyca Koecr Liaas Monfi Petca Petvi Quema Solri",1,1,0,1,1,"3FL","GFL",3,3,0,1,0,1,1,0,1,0,1,0,0,0,0,0,1,0,3,1,1
+24,4,"Asctu Elyca Panvi Schsc",1,1,1,1,0,"34F","GF",3,2,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,1,0,2
+26,4,"Agrsm Elyca Petpu Sornu",1,1,1,0,1,"34L","GL",3,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1
+27,16,"Achmi Agrsm Amoca Asctu Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,1,1,1,1,1,1,1,1,1,1,1,2,3,4,4,5
+28,4,"Lesca Petpu Queel Quema",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2,0
+29,1,"Lesca",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+30,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Liaas Luppe Monfi Panvi Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,0,1,1,1,1,0,1,1,1,2,4,4,2,6
+31,1,"Schsc",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+33,4,"Agrsm Andge Liaas Petca Petvi",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1
+34,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,0,0,1,1,1,1,1,1,1,2,4,3,3,6
+35,16,"Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,4,3,4,5
+44,4,"Asctu Panvi Petca Petpu Petvi",1,0,1,1,1,"4FL","GFL",3,3,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,2,1
+45,4,"Andge Liaas Petpu Quema",1,0,1,1,1,"4FL","GFL",3,3,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1
+46,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,0,1,1,1,1,1,1,1,0,2,3,4,3,5
+48,2,"Koecr Lesca",1,1,0,0,1,"3L","GL",2,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+50,8,"Achmi Elyca Koecr Lesca Petca Petpu Petvi Poapr Quema",1,1,0,1,1,"3FL","GFL",3,3,1,1,0,0,1,1,0,0,0,0,1,1,0,0,2,0,1,3,2
+53,4,"Lesca Poapr Quema Sornu",1,1,1,0,1,"34L","GL",3,2,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,2
+56,2,"Luppe Schsc",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1
+57,8,"Achmi Agrsm Koecr Lesca Monfi Petca Petvi Poapr Schsc Solri",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,0,1,1,0,0,1,0,0,1,1,0,2,1,2,2,3
+58,4,"Andge Monfi Poapr Solri Sornu",1,1,1,1,0,"34F","GF",3,2,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,2,1,0,3
+62,4,"Elyca Lesca Petca Petvi Quema",1,1,0,0,1,"3L","GL",2,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0
+67,8,"Agrsm Koecr Luppe Monfi Petca Petvi Queel Quema Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1,2,2
+68,16,"Achmi Agrsm Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,0,0,1,1,1,1,1,1,1,1,1,1,1,2,3,4,3,5
+69,1,"Achmi",0,0,0,1,0,"F","F",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+70,4,"Andge Asctu Luppe Schsc",1,0,1,1,1,"4FL","GFL",3,3,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,2,1,1,2
+74,8,"Achmi Agrsm Asctu Elyca Koecr Petca Petvi Quema Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1,2,1,2
+75,2,"Asctu Panvi",1,0,1,1,0,"4F","GF",2,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+81,8,"Achmi Agrsm Elyca Lesca Liaas Petpu Poapr Schsc",1,1,1,1,1,"34FL","GFL",4,3,1,0,0,0,0,1,1,0,0,0,1,1,1,0,1,1,2,2,2
+82,16,"Achmi Amoca Andge Asctu Elyca Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,4,5
+83,1,"Luppe",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+87,1,"Sornu",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+89,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Liaas Luppe Panvi Petpu Poapr Queel Quema Schsc Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,0,1,1,0,1,1,1,1,1,2,4,3,3,6
+92,1,"Sornu",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+93,4,"Agrsm Koecr Luppe Petpu",1,1,0,0,1,"3L","GL",2,2,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,2,1
+94,1,"Lesca",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+98,8,"Achmi Agrsm Andge Koecr Luppe Panvi Poapr Queel",1,1,1,1,1,"34FL","GFL",4,3,1,0,1,0,1,0,0,1,0,1,0,1,0,0,2,2,1,1,4
+104,8,"Achmi Elyca Koecr Liaas Luppe Petpu Queel Schsc",1,1,1,1,1,"34FL","GFL",4,3,1,0,0,0,1,0,1,1,0,0,1,0,1,0,1,1,2,2,2
+107,16,"Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,1,1,1,1,1,1,1,1,0,2,3,3,4,5
+108,16,"Achmi Agrsm Amoca Andge Elyca Koecr Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,0,1,0,1,1,1,1,1,1,1,1,2,4,3,3,6
+109,1,"Andge",1,0,1,0,0,"4","G",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+110,4,"Elyca Lesca Luppe Panvi",1,1,1,0,1,"34L","GL",3,2,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,2,1
+111,8,"Achmi Agrsm Lesca Monfi Petca Petvi Poapr Queel Quema Solri",1,1,0,1,1,"3FL","GFL",3,3,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,2,2,1
+115,8,"Agrsm Andge Asctu Elyca Koecr Monfi Poapr Queel Solri",1,1,1,1,0,"34F","GF",3,2,0,0,1,1,1,0,0,0,1,0,0,1,0,0,2,1,2,0,3
+117,2,"Asctu Luppe",0,0,0,1,1,"FL","FL",2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+118,8,"Achmi Agrsm Andge Asctu Koecr Monfi Petpu Quema Solri",1,1,1,1,1,"34FL","GFL",4,3,1,0,1,1,1,0,0,0,1,0,1,0,0,0,1,1,3,1,2
+125,2,"Petpu Schsc",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1
+129,1,"Liaas",0,0,0,1,0,"F","F",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+130,8,"Achmi Asctu Elyca Liaas Panvi Petpu Quema Schsc",1,1,1,1,1,"34FL","GFL",4,3,1,0,0,1,0,0,1,0,0,1,1,0,1,0,0,2,3,1,2
+133,4,"Lesca Monfi Petca Petvi Schsc Solri",1,0,1,1,1,"4FL","GFL",3,3,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,2,1
+135,1,"Schsc",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+136,16,"Achmi Agrsm Amoca Andge Asctu Elyca Lesca Liaas Luppe Monfi Panvi Petpu Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,4,4,4,4
+137,1,"Amoca",0,0,0,0,1,"L","L",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+138,4,"Achmi Elyca Koecr Liaas",1,1,0,1,0,"3F","GF",2,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,2,0,1
+139,4,"Agrsm Elyca Koecr Lesca",1,1,0,0,1,"3L","GL",2,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+142,1,"Koecr",1,1,0,0,0,"3","G",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+146,8,"Achmi Andge Lesca Monfi Panvi Poapr Queel Quema Solri",1,1,1,1,1,"34FL","GFL",4,3,1,0,1,0,0,1,0,0,1,1,0,1,0,0,1,2,2,1,3
+149,4,"Monfi Petca Petvi Quema Solri Sornu",1,0,1,1,1,"4FL","GFL",3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+156,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Monfi Panvi Petpu Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,4,4,3,5
+157,2,"Agrsm Koecr",1,1,0,0,0,"3","G",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+160,16,"Achmi Agrsm Amoca Andge Asctu Koecr Lesca Liaas Luppe Monfi Panvi Petpu Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,4,4,4,5
+163,1,"Sornu",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+164,16,"Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,1,1,0,1,1,1,1,1,1,2,4,3,3,6
+165,2,"Poapr Sornu",1,1,1,0,0,"34","G",2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,2
+167,1,"Liaas",0,0,0,1,0,"F","F",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+168,2,"Andge Koecr",1,1,1,0,0,"34","G",2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+169,16,"Achmi Agrsm Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,0,1,1,1,1,1,1,1,1,1,1,0,1,2,3,4,3,5
+170,8,"Achmi Asctu Elyca Koecr Monfi Petca Petpu Petvi Queel Solri",1,1,0,1,1,"3FL","GFL",3,3,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1,0,3,2,1
+171,2,"Koecr Luppe",1,1,0,0,1,"3L","GL",2,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+174,16,"Achmi Agrsm Amoca Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,3,4,4,4
+175,2,"Luppe Sornu",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1
+176,4,"Agrsm Liaas Panvi Poapr",1,1,1,1,0,"34F","GF",3,2,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1,0,2
+177,8,"Andge Asctu Koecr Liaas Petca Petvi Quema Schsc Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,3,2,1,4
+178,8,"Achmi Agrsm Elyca Koecr Liaas Monfi Panvi Schsc Solri",1,1,1,1,0,"34F","GF",3,2,1,0,0,0,1,0,1,0,1,1,0,0,1,0,1,2,3,0,3
+185,1,"Petpu",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+186,16,"Achmi Agrsm Amoca Asctu Elyca Koecr Lesca Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,1,1,1,0,1,1,1,1,1,1,1,2,3,3,4,5
+190,4,"Lesca Liaas Petpu Quema",0,0,0,1,1,"FL","FL",2,2,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,2,0
+193,2,"Andge Luppe",1,0,1,0,1,"4L","GL",2,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1
+197,2,"Asctu Panvi",1,0,1,1,0,"4F","GF",2,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+199,4,"Luppe Queel Quema Schsc",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1
+201,4,"Lesca Petpu Queel Sornu",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,2,1
+202,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4,4,4,6
+205,1,"Petpu",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+206,8,"Agrsm Andge Asctu Lesca Luppe Monfi Poapr Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,0,1,1,0,1,0,1,1,0,0,1,0,1,1,2,2,2,3
+208,8,"Achmi Agrsm Koecr Lesca Luppe Panvi Poapr Schsc",1,1,1,1,1,"34FL","GFL",4,3,1,0,0,0,1,1,0,1,0,1,0,1,1,0,2,2,1,2,4
+210,8,"Achmi Elyca Koecr Lesca Liaas Luppe Poapr Schsc",1,1,1,1,1,"34FL","GFL",4,3,1,0,0,0,1,1,1,1,0,0,0,1,1,0,2,1,2,2,3
+211,2,"Monfi Petca Petvi Solri",0,0,0,1,1,"FL","FL",2,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+213,8,"Achmi Andge Koecr Lesca Petca Petvi Poapr Quema Schsc",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,0,1,1,0,0,0,0,0,1,1,0,2,2,1,2,4
+220,16,"Achmi Agrsm Amoca Andge Asctu Koecr Lesca Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,0,1,1,1,1,1,1,1,2,4,3,4,6
+223,4,"Koecr Liaas Poapr Queel",1,1,0,1,0,"3F","GF",2,2,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,0,1,0,2
+224,2,"Achmi Sornu",1,0,1,1,0,"4F","GF",2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+225,4,"Elyca Petpu Queel Schsc",1,1,1,0,1,"34L","GL",3,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1
+227,16,"Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4,3,4,6
+229,4,"Andge Petpu Poapr Schsc",1,1,1,0,1,"34L","GL",3,2,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,2,0,1,3
+230,1,"Panvi",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+232,8,"Koecr Luppe Monfi Panvi Petca Petvi Queel Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,0,0,1,0,0,1,1,1,0,0,1,1,1,3,1,2,4
+233,4,"Liaas Petpu Poapr Queel",1,1,0,1,1,"3FL","GFL",3,3,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,1
+234,2,"Elyca Luppe",1,1,0,0,1,"3L","GL",2,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+235,16,"Achmi Agrsm Amoca Andge Asctu Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,4,4,4,5
+236,2,"Lesca Panvi",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,1
+237,1,"Poapr",1,1,0,0,0,"3","G",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+239,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Luppe Monfi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,0,1,1,0,1,1,1,1,2,3,3,4,5
+242,16,"Agrsm Amoca Andge Asctu Elyca Koecr Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,0,1,1,1,1,1,1,1,1,2,4,3,3,6
+253,16,"Achmi Agrsm Amoca Andge Asctu Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4,4,4,6
+257,16,"Achmi Agrsm Amoca Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,0,0,1,1,1,1,1,1,1,1,1,1,2,3,3,4,5
+259,2,"Lesca Schsc",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1
+265,1,"Luppe",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+266,8,"Achmi Agrsm Andge Petca Petpu Petvi Quema Schsc Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,3,1,2,3
+267,1,"Liaas",0,0,0,1,0,"F","F",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+268,1,"Koecr",1,1,0,0,0,"3","G",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+273,16,"Achmi Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,0,1,1,1,1,1,1,1,1,1,1,1,1,2,4,4,3,6
+278,2,"Elyca Sornu",1,1,1,0,0,"34","G",2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+280,1,"Schsc",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+282,1,"Sornu",1,0,1,0,0,"4","G",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+283,8,"Achmi Agrsm Andge Asctu Elyca Panvi Schsc Sornu",1,1,1,1,0,"34F","GF",3,2,1,0,1,1,0,0,0,0,0,1,0,0,1,1,0,4,2,0,4
+286,4,"Lesca Poapr Schsc Sornu",1,1,1,0,1,"34L","GL",3,2,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,2,0,1,3
+287,4,"Achmi Elyca Monfi Schsc Solri",1,1,1,1,0,"34F","GF",3,2,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,0,1
+290,1,"Monfi Solri",0,0,0,1,0,"F","F",1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+291,1,"Petpu",0,0,0,0,1,"L","L",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+292,8,"Andge Elyca Koecr Lesca Luppe Petca Petvi Poapr Sornu",1,1,1,0,1,"34L","GL",3,2,0,1,1,0,1,1,0,1,0,0,0,1,0,1,2,2,0,3,4
+293,8,"Andge Asctu Lesca Luppe Petpu Queel Quema Schsc",1,0,1,1,1,"4FL","GFL",3,3,0,0,1,1,0,1,0,1,0,0,1,0,1,0,0,2,1,3,2
+299,16,"Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,0,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4,3,4,6
+300,2,"Luppe Panvi",1,0,1,0,1,"4L","GL",2,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1
+301,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Poapr Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,0,1,1,1,2,4,4,3,6
+302,4,"Liaas Luppe Monfi Quema Solri",0,0,0,1,1,"FL","FL",2,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,0
+303,8,"Achmi Agrsm Koecr Liaas Luppe Monfi Petca Petvi Poapr Solri",1,1,0,1,1,"3FL","GFL",3,3,1,1,0,0,1,0,1,1,1,0,0,1,0,0,2,0,3,2,2
+304,2,"Agrsm Koecr",1,1,0,0,0,"3","G",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+307,8,"Asctu Luppe Monfi Panvi Petpu Queel Quema Schsc Solri",1,0,1,1,1,"4FL","GFL",3,3,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,2,2,2,2
+308,1,"Asctu",0,0,0,1,0,"F","F",1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+311,2,"Koecr Panvi",1,1,1,0,0,"34","G",2,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,2
+313,8,"Achmi Koecr Lesca Liaas Luppe Petca Petpu Petvi Quema",1,1,0,1,1,"3FL","GFL",3,3,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,2,4,1
+318,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Luppe Monfi Panvi Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,0,1,1,1,0,1,1,1,2,4,3,3,6
+324,2,"Elyca Poapr",1,1,0,0,0,"3","G",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+325,4,"Koecr Monfi Panvi Petpu Solri",1,1,1,1,1,"34FL","GFL",4,3,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,1,1,2
+328,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Quema Schsc Solri",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,3,4,4,5
+329,16,"Achmi Agrsm Amoca Andge Elyca Koecr Lesca Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,0,1,1,0,1,1,1,1,1,1,1,2,4,2,4,6
+330,2,"Andge Liaas",1,0,1,1,0,"4F","GF",2,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+331,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Queel Quema Schsc Solri",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,3,4,4,4
+334,2,"Elyca Sornu",1,1,1,0,0,"34","G",2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+335,2,"Koecr Petca Petvi",1,1,0,0,1,"3L","GL",2,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+336,16,"Achmi Agrsm Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Queel Quema Schsc Solri Sornu",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,4,4,3,5
+338,1,"Monfi Solri",0,0,0,1,0,"F","F",1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+339,16,"Achmi Amoca Andge Asctu Elyca Koecr Lesca Liaas Luppe Monfi Panvi Petpu Poapr Queel Quema Schsc Solri",1,1,1,1,1,"34FL","GFL",4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,3,4,4,5
+342,2,"Luppe Monfi Solri",0,0,0,1,1,"FL","FL",2,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0
